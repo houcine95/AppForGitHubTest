@@ -1,0 +1,6 @@
+C:\Users\h.mariami\source\repos\AppForGitHubTest\AppForGitHubTest\bin\Debug\AppForGitHubTest.exe
+C:\Users\h.mariami\source\repos\AppForGitHubTest\AppForGitHubTest\bin\Debug\AppForGitHubTest.pdb
+C:\Users\h.mariami\source\repos\AppForGitHubTest\AppForGitHubTest\obj\Debug\AppForGitHubTest.csprojAssemblyReference.cache
+C:\Users\h.mariami\source\repos\AppForGitHubTest\AppForGitHubTest\obj\Debug\AppForGitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\h.mariami\source\repos\AppForGitHubTest\AppForGitHubTest\obj\Debug\AppForGitHubTest.exe
+C:\Users\h.mariami\source\repos\AppForGitHubTest\AppForGitHubTest\obj\Debug\AppForGitHubTest.pdb

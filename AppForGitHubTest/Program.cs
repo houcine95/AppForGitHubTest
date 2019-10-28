@@ -9,6 +9,7 @@ namespace AppForGitHubTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
         }
     }
 }
