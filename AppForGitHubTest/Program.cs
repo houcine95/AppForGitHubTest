@@ -10,6 +10,7 @@ namespace AppForGitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Test");
+            Console.WriteLine("2ème Branche");
         }
     }
 }
